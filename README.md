@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 I’m currently a Data Science Associate at Finantier, working in the open banking movement in South East Asia.
+
+📫 Here is how to reach me: 
+1. My personal portfolio [website](https://leonardtan13.netlify.app)
+2. Email me at leonardtan13@gmail.com
+
 <!--
 **leonardtan13/leonardtan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
