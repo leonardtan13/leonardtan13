@@ -2,7 +2,7 @@
 
 Skills: VUE / REACT / PYTHON / JAVA / KOTLIN / GO / C++ / SOLIDITY
 
-PORTFOLIO: My personal portfolio [website](https://leonardtan13.netlify.app)
+Visit my personal portfolio [here!](https://leonardtan13.netlify.app)
 
 
 
