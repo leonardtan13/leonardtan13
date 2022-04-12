@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Leonard
 
-Skills: VUE / REACT / PYTHON / JAVA / KOTLIN / GO / C++ / SOLIDITY
+Skills: Vue 3 / React / Python / Java / Kotlin / Golang / C++ / Solidity
 
 Visit my personal portfolio [here!](https://leonardtan13.netlify.app)
 
