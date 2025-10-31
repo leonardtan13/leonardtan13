@@ -4,6 +4,7 @@
 
 <!-- Existing stats card -->
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardtan13&show_icons=true&count_private=true&theme=radical) -->
+![Snake animation](https://github.com/leonardtan13/leonardtan13/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Existing streak stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardtan13&theme=radical)
