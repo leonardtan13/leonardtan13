@@ -7,10 +7,10 @@
 ![Snake animation](https://github.com/leonardtan13/leonardtan13/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Existing streak stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardtan13&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardtan13&theme=gruvbox-duo)
 
 <!-- Add top languages card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardtan13&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardtan13&layout=compact&theme=gruvbox_light)
 
 <!-- TODO: If you have a star history for a specific repo, add it here. Example: ![Star History](https://api.star-history.com/svg?repos=leonardtan13/repo&type=Date) -->
 
