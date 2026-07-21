@@ -1,4 +1,2 @@
-# Hi there 👋, I'm Leonard
-
 - [LinkedIn](https://www.linkedin.com/in/leonardtan13/)
 - [Email](mailto:me@leonardtgm.com)
